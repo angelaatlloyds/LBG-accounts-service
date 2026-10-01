@@ -1,0 +1,1 @@
+# LBG-accounts-service
